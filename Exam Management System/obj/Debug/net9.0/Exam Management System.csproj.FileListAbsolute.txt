@@ -1,0 +1,14 @@
+C:\Users\Amar\source\repos\Exam Management System\Exam Management System\bin\Debug\net9.0\Exam Management System.exe
+C:\Users\Amar\source\repos\Exam Management System\Exam Management System\bin\Debug\net9.0\Exam Management System.deps.json
+C:\Users\Amar\source\repos\Exam Management System\Exam Management System\bin\Debug\net9.0\Exam Management System.runtimeconfig.json
+C:\Users\Amar\source\repos\Exam Management System\Exam Management System\bin\Debug\net9.0\Exam Management System.dll
+C:\Users\Amar\source\repos\Exam Management System\Exam Management System\bin\Debug\net9.0\Exam Management System.pdb
+C:\Users\Amar\source\repos\Exam Management System\Exam Management System\obj\Debug\net9.0\Exam Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amar\source\repos\Exam Management System\Exam Management System\obj\Debug\net9.0\Exam Management System.AssemblyInfoInputs.cache
+C:\Users\Amar\source\repos\Exam Management System\Exam Management System\obj\Debug\net9.0\Exam Management System.AssemblyInfo.cs
+C:\Users\Amar\source\repos\Exam Management System\Exam Management System\obj\Debug\net9.0\Exam Management System.csproj.CoreCompileInputs.cache
+C:\Users\Amar\source\repos\Exam Management System\Exam Management System\obj\Debug\net9.0\Exam Management System.dll
+C:\Users\Amar\source\repos\Exam Management System\Exam Management System\obj\Debug\net9.0\refint\Exam Management System.dll
+C:\Users\Amar\source\repos\Exam Management System\Exam Management System\obj\Debug\net9.0\Exam Management System.pdb
+C:\Users\Amar\source\repos\Exam Management System\Exam Management System\obj\Debug\net9.0\Exam Management System.genruntimeconfig.cache
+C:\Users\Amar\source\repos\Exam Management System\Exam Management System\obj\Debug\net9.0\ref\Exam Management System.dll
